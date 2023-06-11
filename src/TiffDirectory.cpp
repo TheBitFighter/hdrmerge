@@ -21,6 +21,7 @@
  */
 
 #include <algorithm>
+#include <cstdint>
 #include "TiffDirectory.hpp"
 using namespace hdrmerge;
 
